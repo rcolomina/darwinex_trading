@@ -5,6 +5,7 @@ Project dedicated to develop trading systems and bots over Forex, in particular 
 Phases of development:
 
 * Data collection
+* DB Requirements
 * Data analysis
 * Build RL bots
 * Deployment
@@ -12,9 +13,13 @@ Phases of development:
 * Closing the Loop 
 * Working Hypothesis
 
-## Data Collecting
+## Data Mining
 
-Darwinex FTP is a good place to take Forex data sub-second tick a tick. It is recommended for such a resolution of data a plugin to handle large time series. In postgres there is db timescale which increases dramatically operations on large table indexed by timestamp. 
+This project uses Darwinex broker FTP. This is available free of charge, allowing to trader to get profit of quality Forex data, that is tick a tick. In this project data will be converted into candle OHLC and volume, to curate the data and make it useful. Nevertheless, any process used in data mining, should be taken into account on training phase of the automatas. 
+
+## DB Requirements
+
+Regarding technical requirements, it is recommended for such a resolution of data a plugin to handle large time series. In postgres there is db timescale which increases dramatically operations on large table indexed by timestamp. 
 
 ## Data Analysis
 
