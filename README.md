@@ -22,7 +22,7 @@ Historical data is very useful, but it needs to be processed, analysed and summa
 
 ## RL Bots
 
-Bots are automatic ways to enter and exit the market 24/7, but they need to be smart. For this RL bots trained on simulated environments based on real data will help to create such a bots
+Bots are automatic ways to trade in the finantial markets without stop 24-7. But there is a caveat on the bots. These have to be smart, something that is achieved using curated market data. RL stand for reinforcement learning, which is a way of machine learning that uses rewards to improve itself. RL bots are trained on simulated environment built from real data collection. This will help to work on automatas that will be adapted to the reality.
 
 ## Deployment & Monitoring
 
