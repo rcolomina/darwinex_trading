@@ -7,7 +7,10 @@ Phases of development:
 * Data collection
 * Data analysis
 * Build RL bots
-* Exploitation
+* Deployment
+* Monitoring
+* Closing the Loop 
+* Working Hypothesis
 
 ## Data Collecting
 
@@ -25,7 +28,7 @@ Bots are automatic ways to enter and exit the market 24/7, but they need to be s
 
 Bots have to be used, to close the development loop. Production feedback is the key to iterate the development making the bots profitable with enough experience.
 
-## Closing the loop: Best Possible Designs
+## Closing the Loop & Working Hypothesis: 
 
 Bots require an economic hypotesis before to define any rule over them. Economic ideas can be proved or disproved using bots. Those non profitable ideas will be discarted. Darwin would say, that an espice only will thrive in is able to adapt to its environemnt being able to survive. 
 
