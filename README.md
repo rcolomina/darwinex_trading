@@ -27,6 +27,6 @@ Bots have to be used, to close the development loop. Production feedback is the 
 
 ## Closing the loop: Best Possible Designs
 
-Bots require an economic hypotesis before to define any rule over them. Economic ideas can be proved or disproved using bots. Those non profitable ideas will be discarted. Darwin would say, that an espice only will thrive in is able to adapt to its environemnt. the best fit to the environment will survive. 
+Bots require an economic hypotesis before to define any rule over them. Economic ideas can be proved or disproved using bots. Those non profitable ideas will be discarted. Darwin would say, that an espice only will thrive in is able to adapt to its environemnt being able to survive. 
 
 
